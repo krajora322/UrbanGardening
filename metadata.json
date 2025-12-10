@@ -1,0 +1,8 @@
+{
+  "name": "Urban Gardening India",
+  "description": "A comprehensive platform for urban gardening needs, including an e-commerce store, expert gardener booking, and smart plant health diagnosis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
