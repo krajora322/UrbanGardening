@@ -138,13 +138,6 @@ As a new user, I can create an account quickly with minimal friction.
 
 ---
 
-### 🔔 Global Features
-- Sticky navigation bar with real-time cart badge  
-- Toast notifications for user actions  
-- Mobile-first, responsive design across all screens  
-
----
-
 ## 4. Quick Start / Installation
 
 ### Prerequisites
@@ -157,7 +150,6 @@ git clone https://github.com/krajora322/UrbanGardening
 cd urban-gardening-india
 npm install
 
----
 
 ## **Environment Setup**
 Create a .env file in the project root.
@@ -167,8 +159,6 @@ REACT_APP_AI_API_KEY=
 ## **Run Commands**
 npm start
 The app runs at: http://http://localhost:3000/
-
----
 
 ## **5. API Reference**
 ### **Plant Diagnosis (AI Integration)**
